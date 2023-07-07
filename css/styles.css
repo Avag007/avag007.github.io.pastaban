@@ -11902,6 +11902,7 @@ header.masthead .masthead-heading {
 .portfolio-modal .modal-dialog {
   margin: 1rem;
   max-width: 100vw;
+   min-width: 400px;
 }
 .portfolio-modal .modal-content {
   padding-top: 6rem;
@@ -11910,7 +11911,7 @@ header.masthead .masthead-heading {
 }
 .portfolio-modal .modal-content h2,
 .portfolio-modal .modal-content .h2 {
-  font-size: 3rem;
+  font-size: 1.5rem;
   line-height: 3rem;
 }
 .portfolio-modal .modal-content p.item-intro {
